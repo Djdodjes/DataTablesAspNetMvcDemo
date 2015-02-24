@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2013
 VisualStudioVersion = 12.0.30723.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataTableDemo", "DataTableDemo\DataTableDemo.csproj", "{FB03D230-6F8B-4BB8-9DB4-362B83AD1DA7}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataTableDemo.Web", "DataTableDemo\DataTableDemo.Web.csproj", "{FB03D230-6F8B-4BB8-9DB4-362B83AD1DA7}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
